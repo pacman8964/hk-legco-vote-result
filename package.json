@@ -1,0 +1,19 @@
+{
+  "name": "hk-legco-vote-result",
+  "version": "1.0.0",
+  "description": "Grep vote result from www.legco.gov.hk and generate a vote result in excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crawl": "node crawler.js"
+  },
+  "author": "pacman8964",
+  "license": "SEE LICENSE FILE",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.19",
+    "json2xls": "^0.1.2",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
