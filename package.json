@@ -12,7 +12,7 @@
   "dependencies": {
     "fast-xml-parser": "^3.12.19",
     "json2xls": "^0.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
   }
